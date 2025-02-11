@@ -145,4 +145,7 @@ def start_game():
      print(check_winner(user_choice, computer_choice))  # Determine the winner
      return
 
-# Run python3 main.py start_game in the terminal to play the game!
+# Run uncomment the line below this and run python3 main.py in the terminal to play the game!
+# start_game() 
+
+# BE SURE TO COMMENT THE LINE ABOVE OUT BEFORE RUNNING YOUR TESTS AND SUBMITTING YOUR CODE!
