@@ -2,8 +2,8 @@
 #### CMSI 1010: Computer Programming and Lab
 
 ## Important Dates
-- Assigned 02/12/2025
-- Due 02/26/2025
+- Assigned 09/22/2025
+- Due 10/02/2025
 ## Reading
 Please read the ```pytest_doc.md``` file to get a better understanding of Pytest!
 
